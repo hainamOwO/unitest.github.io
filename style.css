@@ -15,7 +15,7 @@ body{
 #test_infor{
   width: 100%;
   height: 42rem;
-  background-image:url(../background/home_background.jpg);
+  background-image:url(home_background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -192,7 +192,7 @@ body{
 #copyright{
   width: 100%;
   height: 6rem;
-  background-image:url(/background/copyright.png);
+  background-image:url(copyright.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
